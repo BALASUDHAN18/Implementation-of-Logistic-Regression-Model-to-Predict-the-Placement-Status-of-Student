@@ -85,7 +85,6 @@ lr.predict([[1,80,1,90,1,1,90,1,0,85,1,85]])
 ```
 
 ## Output:
-![the Logistic Regression Model to Predict the Placement Status of Student](sam.png)
 
 ![image](https://github.com/BALASUDHAN18/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/118807740/97e41d4d-c804-455d-a82d-020afa8d2b0e)
 
